@@ -1,4 +1,4 @@
-<!-- resources/views/obat/index-dummy.blade.php -->Add commentMore actions
+<!-- resources/views/obat/index-dummy.blade.php -->
 <x-app-layout>
     <x-slot name="header">
         <h2 class="text-xl font-semibold leading-tight text-gray-800">
@@ -17,8 +17,6 @@
 
                         <div class="flex-col items-center justify-center text-center">
                             <a href="#" class="btn btn-primary">Tambah Obat</a>
-
-                            <p class="text-sm text-gray-600">{{ __('Created.') }}</p>
                         </div>
                     </header>
 
